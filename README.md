@@ -9,7 +9,8 @@ cd fork-repo-app
 
 env\Scripts\activate
 
-Set these environment variables
+# Set these environment variables
+
 set CLIENT_ID=<your client id>
 set CLIENT_SECRET=<your client secret>
 set OAUTHLIB_INSECURE_TRANSPORT=1
