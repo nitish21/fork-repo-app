@@ -2,7 +2,7 @@
 
 Install python3
 
-clone the repo 
+clone the repo
 git clone https://github.com/nitish21/fork-repo-app.git
 
 cd fork-repo-app
