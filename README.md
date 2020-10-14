@@ -1,5 +1,8 @@
 # fork-repo-app using Github Oauth
 
+Create an Oauth app in github
+You will get the client_id and client_secret. Use it in later steps to set environment variables.
+
 Install python3
 
 clone the repo
