@@ -1,0 +1,12 @@
+<html>
+    <header>Flask Fork App</header>
+    <body>
+        <h1>Your Github name is {{loginName}} </h1>
+
+        {% for repo in existing_repos %}
+            <p> {{ repo }} </p>
+        {% endfor %}
+
+        <h1>In order to fork this repo, please use the endpoint /fork in the address bar</h1>
+    </body>
+</html>
